@@ -17,3 +17,10 @@ test-run
 .Trashes
 ehthumbs.db
 Thumbs.db
+gradlew\.bat
+
+gradlew
+
+gradle/wrapper/gradle-wrapper\.jar
+
+gradle/wrapper/gradle-wrapper\.properties
